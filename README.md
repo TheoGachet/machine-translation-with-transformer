@@ -1,4 +1,4 @@
-# Portuguese-to-English Translator README
+# Machine Translation using attention mechanisms and Transformer model
 
 ## Overview
 
